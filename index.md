@@ -1,3 +1,3 @@
 ---
-Jim's Blog: Projects I have been working on
+Jim's Project Blog: Projects I have been working on
 ---
