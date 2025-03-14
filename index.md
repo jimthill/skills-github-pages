@@ -1,4 +1,3 @@
 ---
-title: Projects I have been working on
+Jim's Blog: Projects I have been working on
 ---
-This is how I want my page to look
